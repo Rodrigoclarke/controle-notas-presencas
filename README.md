@@ -1,6 +1,6 @@
 # Controle de Notas e Presenças Acadêmicas
 
-Uma aplicação web robusta para gerenciar notas e presenças de estudantes em disciplinas acadêmicas.
+Um rrascunho baseado em aplicação web para gerenciar notas e presenças de estudantes em disciplinas acadêmicas.
 
 ## Funcionalidades
 - Cadastro de disciplinas e alunos.
